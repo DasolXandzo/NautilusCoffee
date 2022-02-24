@@ -1,0 +1,421 @@
+{
+    "001c": {
+      "name": "Доппио ",
+      "postname": "",
+      "cost": 100,
+      "description": "Двойной эспрессо",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "",
+      "order": 1,
+      "img" : "coffie-hand2.jpg"
+    },
+    "002c": {
+      "name": "Американо  ",
+      "postname": "",
+      "cost": 110,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "",
+      "order": 2,
+      "img" : "coffie-hand2.jpg"
+    },
+    "003c": {
+      "name": "Американо ",
+      "postname": "(с молоком)",
+      "cost": 130,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "",
+      "order": 3,
+      "img" : "coffie-hand2.jpg"
+    },
+    "004c": {
+      "name": "Американо ",
+      "postname": "(на молоке)",
+      "cost": 150,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "",
+      "order": 4,
+      "img" : "coffie-hand2.jpg"
+    },
+    "005c": {
+      "name": "Капучино ",
+      "postname": "",
+      "cost": 140,
+      "max_cost": 150,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "400мл",
+      "order": 5,
+      "img" : "coffie-hand2.jpg"
+    },
+    "006c": {
+      "name": "Капучино ",
+      "postname": "(мятный)",
+      "cost": 170,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "",
+      "order": 6,
+      "img" : "coffie-hand2.jpg"
+    },
+    "007c": {
+      "name": "Латте ",
+      "postname": "",
+      "cost": 150,
+      "max_cost": 160,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "400мл",
+      "order": 7,
+      "img" : "coffie-hand2.jpg"
+    },
+    "008c": {
+      "name": "Мокачино ",
+      "postname": "",
+      "cost": 150,
+      "max_cost": 170,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "400мл",
+      "order": 8,
+      "img" : "coffie-hand2.jpg"
+    },
+    "009c": {
+      "name": "Раф ",
+      "postname": "(медовый)",
+      "cost": 230,
+      "max_cost": 260,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "400мл",
+      "order": 9,
+      "img" : "coffie-hand2.jpg"
+    },
+    "010c": {
+      "name": "Раф ",
+      "postname": "(лавандовый)",
+      "cost": 230,
+      "max_cost": 260,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "400мл",
+      "order": 10,
+      "img" : "coffie-hand2.jpg"
+    },
+    "011c": {
+      "name": "Раф ",
+      "postname": "(лимон. пирог)",
+      "cost": 230,
+      "max_cost": 260,
+      "description": "Здесь будет описание",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "400мл",
+      "order": 11,
+      "img" : "coffie-hand2.jpg"
+    },
+    "012c": {
+      "name": "Бамбл ",
+      "postname": "",
+      "cost": 200,
+      "max_cost": 230,
+      "description": "Эспрессо, апельсиновый сок",
+      "size": "Объём: ",
+      "min_size": "300мл",
+      "max_size": "400мл",
+      "order": 12,
+      "img" : "coffie-hand2.jpg"
+    },
+    "001ad": {
+      "name": "Nautilus coffee ",
+      "postname": "",
+      "cost": 250,
+      "description": "Здесь будет описание",
+      "order": 20,
+      "img" : "coffie-hand2.jpg"
+    },
+  "002ad": {
+    "name": "Матча ",
+    "postname": "(+ vitamin C)",
+    "cost": 200,
+    "description": "Здесь будет описание",
+    "order": 21,
+    "img" : "coffie-hand2.jpg"
+  },
+  "003ad": {
+    "name": "Латте ",
+    "postname": "(кокос)",
+    "cost": 200,
+    "description": "Здесь будет описание",
+    "order": 22,
+    "img" : "coffie-hand2.jpg"
+  },
+  "004ad": {
+    "name": "Глинтвейн ",
+    "postname": "(кофейный)",
+    "cost": 200,
+    "description": "Здесь будет описание",
+    "order": 23,
+    "img" : "coffie-hand2.jpg"
+  },
+  "005ad": {
+    "name": "Матча ",
+    "postname": "(море)",
+    "cost": 180,
+    "description": "С полезной ламинарией",
+    "order": 24,
+    "img" : "coffie-hand2.jpg"
+  },
+  "006ad": {
+    "name": "Мокачино ",
+    "postname": "(вишнёвый)",
+    "cost": 180,
+    "description": "Мокачино, вишнёвый сироп",
+    "order": 25,
+    "img" : "coffie-hand2.jpg"
+  },
+  "007ad": {
+    "name": "Смузи ",
+    "postname": "(ягодно-фруктовый)",
+    "cost": 200,
+    "description": "Здесь будет описание",
+    "order": 26,
+    "img" : "coffie-hand2.jpg"
+  },
+  "008ad": {
+    "name": "Лимонад ",
+    "postname": "",
+    "cost": 160,
+    "description": "Здесь будет описание",
+    "order": 27,
+    "img" : "coffie-hand2.jpg"
+  },
+  "009ad": {
+    "name": "Милкшейк ",
+    "postname": "(кокос)",
+    "cost": 250,
+    "description": "Здесь будет описание",
+    "order": 28,
+    "img" : "coffie-hand2.jpg"
+  },
+  "010ad": {
+    "name": "Милкшейк ",
+    "postname": "(шоколад)",
+    "cost": 250,
+    "description": "Здесь будет описание",
+    "order": 29,
+    "img" : "coffie-hand2.jpg"
+  },
+  "011ad": {
+    "name": "Милкшейк ",
+    "postname": "(клубника)",
+    "cost": 250,
+    "description": "Здесь будет описание",
+    "order": 30,
+    "img" : "coffie-hand2.jpg"
+  },
+  "001f": {
+    "name": "Сэндвич ",
+    "postname": "(с курицей)",
+    "cost": 100,
+    "description": "Здесь будет описание",
+    "order": 40,
+    "img" : "coffie-hand2.jpg"
+  },
+  "002f": {
+    "name": "Сэндвич ",
+    "postname": "(с говядиной)",
+    "cost": 100,
+    "description": "Здесь будет описание",
+    "order": 41,
+    "img" : "coffie-hand2.jpg"
+  },
+  "003f": {
+    "name": "Сэндвич ",
+    "postname": "(с бужениной)",
+    "cost": 100,
+    "description": "Здесь будет описание",
+    "order": 42,
+    "img" : "coffie-hand2.jpg"
+  },
+  "004f": {
+    "name": "Сэндвич ",
+    "postname": "(с лососем)",
+    "cost": 100,
+    "description": "Здесь будет описание",
+    "order": 43,
+    "img" : "coffie-hand2.jpg"
+  },
+  "005f": {
+    "name": "Сэндвич ",
+    "postname": "(с ветчиной)",
+    "cost": 100,
+    "description": "Здесь будет описание",
+    "order": 44,
+    "img" : "coffie-hand2.jpg"
+  },
+  "006f": {
+    "name": "Пончик ",
+    "postname": "(шоколадный)",
+    "cost": 90,
+    "description": "Здесь будет описание",
+    "order": 45,
+    "img" : "coffie-hand2.jpg"
+  },
+  "007f": {
+    "name": "Пончик ",
+    "postname": "(клубничный)",
+    "cost": 90,
+    "description": "Здесь будет описание",
+    "order": 46,
+    "img" : "coffie-hand2.jpg"
+  },
+  "008f": {
+    "name": "Пончик ",
+    "postname": "(банановый)",
+    "cost": 90,
+    "description": "Здесь будет описание",
+    "order": 47,
+    "img" : "coffie-hand2.jpg"
+  },
+  "009f": {
+    "name": "Пончик ",
+    "postname": "(орео)",
+    "cost": 90,
+    "description": "Здесь будет описание",
+    "order": 48,
+    "img" : "coffie-hand2.jpg"
+  },
+  "010f": {
+    "name": "Пончик ",
+    "postname": "(рафаэлло)",
+    "cost": 90,
+    "description": "Здесь будет описание",
+    "order": 49,
+    "img" : "coffie-hand2.jpg"
+  },
+  "011f": {
+    "name": "Пончик ",
+    "postname": "(варёная сгущёнка)",
+    "cost": 90,
+    "description": "Здесь будет описание",
+    "order": 50,
+    "img" : "coffie-hand2.jpg"
+  },
+  "012f": {
+    "name": "Пончик ",
+    "postname": "(ванильный)",
+    "cost": 90,
+    "description": "Здесь будет описание",
+    "order": 51,
+    "img" : "coffie-hand2.jpg"
+  },
+  "013f": {
+    "name": "Пончик ",
+    "postname": "(карамельный)",
+    "cost": 90,
+    "description": "Здесь будет описание",
+    "order": 52,
+    "img" : "coffie-hand2.jpg"
+  },
+  "014f": {
+    "name": "Пончик ",
+    "postname": "(черничный)",
+    "cost": 90,
+    "description": "Здесь будет описание",
+    "order": 53,
+    "img" : "coffie-hand2.jpg"
+  },
+  "001hd": {
+    "name": "Какао ",
+    "postname": "",
+    "cost": 130,
+    "description": "Здесь будет описание",
+    "order": 60,
+    "img" : "coffie-hand2.jpg"
+  },
+  "002hd": {
+    "name": "Горячий шок. ",
+    "postname": "(пряный)",
+    "cost": 200,
+    "description": "Со специями",
+    "order": 61,
+    "img" : "coffie-hand2.jpg"
+  },
+  "003hd": {
+    "name": "Матча латте ",
+    "postname": "",
+    "cost": 140,
+    "description": "Здесь будет описание",
+    "order": 62,
+    "img" : "coffie-hand2.jpg"
+  },
+  "004hd": {
+    "name": "Американо ",
+    "postname": "(цитрусовый)",
+    "cost": 150,
+    "description": "Здесь будет описание",
+    "order": 63,
+    "img" : "coffie-hand2.jpg"
+  },
+  "005hd": {
+    "name": "Чай ",
+    "postname": "(травяной)",
+    "cost": 80,
+    "description": "Здесь будет описание",
+    "order": 64,
+    "img" : "coffie-hand2.jpg"
+  },
+  "006hd": {
+    "name": "Чай ",
+    "postname": "(ягодный)",
+    "cost": 80,
+    "description": "Здесь будет описание",
+    "order": 65,
+    "img" : "coffie-hand2.jpg"
+  },
+  "007hd": {
+    "name": "Чай ",
+    "postname": "(зелёный)",
+    "cost": 80,
+    "description": "Здесь будет описание",
+    "order": 66,
+    "img" : "coffie-hand2.jpg"
+  },
+  "008hd": {
+    "name": "Чай ",
+    "postname": "(мята-малина)",
+    "cost": 80,
+    "description": "Здесь будет описание",
+    "order": 67,
+    "img" : "coffie-hand2.jpg"
+  },
+  "009hd": {
+    "name": "Чай ",
+    "postname": "(манго-маракуйя)",
+    "cost": 80,
+    "description": "Здесь будет описание",
+    "order": 68,
+    "img" : "coffie-hand2.jpg"
+  },
+  "010hd": {
+    "name": "Чай ",
+    "postname": "(глинтвейновый)",
+    "cost": 80,
+    "description": "Здесь будет описание",
+    "order": 69,
+    "img" : "coffie-hand2.jpg"
+  }
+}

@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+	margin: 0;
+	background: linear-gradient(to bottom, #D6D6D6 0%, #B0B0B0 49%, #D6D6D6 100%);
+	font-family: 'Roboto', sans-serif;
+}
+
+header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1% 2%;
+	color: #FFFFFF;
+	font-size: 48px;
+	border-bottom: solid 6px #FFFFFF;
+	margin: 0 3%;
+}
+
+.back{
+	margin-top: -0.25%;
+	padding-top: 0.5%;
+	padding-right: 0.5%;
+	display: flex;
+	align-items: center;
+	transition: 0.2s linear;
+	white-space: nowrap;
+}
+
+.back:hover{
+	background-color: #cfcfcf;
+	border-radius: 10px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	cursor: pointer;
+	transition: 0.2s linear;
+}
+
+.back:active{
+	background-color: #c9c9c9;
+	transition: 0.05s linear;
+}
+
+.arrowback{
+	height: 50px;
+	width: 50px;
+	margin-bottom: -1%;
+}
+
+.logo{
+	height: 58px;
+	width: 181px;
+	margin-bottom: -2.5%;
+}
+
+.head{
+	margin-left: -11.5%;
+	font-size: 52px;
+}
+
+.road_of_basket{
+	background-image: url("img/icons8-корзина-65.png");
+	background-size: contain;
+	background-position: center;
+	height: 55px;
+	width: 65px;
+	padding-top: 25%;
+	transition: 0.2s linear;
+	font-size: 16px;
+	text-align: center;
+	margin-bottom: -0.25%;
+}
+
+.road_of_basket:hover{
+	background-color: #cfcfcf;
+	border-radius: 10px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	cursor: pointer;
+	transition: 0.2s linear;
+}
+
+.road_of_basket:active{
+	background-color: #c9c9c9;
+	transition: 0.05s linear;
+}
+
+main{
+	margin: 0 1%;
+	padding-bottom: 4%; 
+}
+
+.roll{
+	justify-content: space-around;
+	flex-wrap: wrap;
+	color: #442D25;
+	content: "";
+	display: flex;
+	clear: both;
+}
+
+.it{
+	width: 361px;
+	border-radius: 20px;
+	margin-top: 4%;
+	background-color: #E4E4E4;
+	margin-left: 1%;
+	margin-right: 1%;
+	transition: 0.2s linear;
+}
+
+.it:hover{
+	position: relative;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	transition: 0.2s linear;
+}
+
+.item{
+	width: 309px;
+	height: 312px;
+	margin-top: 7%;
+	margin-left: 7%;
+	margin-right: 7%;
+	border-radius: 20px;
+}
+
+.inf{
+	margin-top: 2%;
+	margin-left: 7%;
+}
+
+.name{
+	font-size: 32px;
+	display: inline-block;
+}
+
+.postname{
+	font-size: 16px;
+	display: inline-block;
+}
+
+.lowinf{
+	margin-bottom: 2%;
+	white-space: nowrap;
+}
+
+form{
+	display: inline-block;
+	white-space: nowrap;
+	margin-bottom: 2%;
+}
+
+input{
+	font-size: 16px;
+	display: inline-block;
+	margin-left: 2%;
+	margin-bottom: 2%;
+}
+
+.op{
+	width: 309px;
+}
+
+.low{
+	margin-top: 2%;
+	padding-bottom: 5%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.price{
+	font-size: 30px;
+}
+
+.inbask{
+	width: 17%;
+	background-color: #48959F; 
+	font-size: 18px;
+	border-radius: 10px;
+	padding: 2% 5%;
+	margin-right: 7%;
+	color: #FFFFFF;
+	transition: 0.2s linear;
+}
+
+.inbask:hover{
+	background-color: #2C818C;
+	transition: 0.2s linear;
+	cursor: pointer;
+}
+
+.inbask:active{
+	background-color: #75B3BB;
+	transition: 0.05s linear;
+}
+
+.up{
+	position: fixed;
+	padding: 0 0.5%;
+	padding-top: 0.5%;
+	padding-bottom: 0.3%;
+	bottom: 3%;
+	right: 1.5%;
+	background-color: #C4C4C4;
+	border-radius: 50px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	transition: 0.2s linear;
+}
+
+.up:hover{
+	background-color: #48959F;
+	transition: 0.2s linear;
+	cursor: pointer;
+}
+
+.up:active{
+	background-color: #75B3BB;
+	transition: 0.05s linear;
+}
+
+.arrowup{
+	height: 60px;
+}
+
+footer{
+	background: linear-gradient(to bottom, #9b7562, #241512);
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 1% 0;
+	color: #FFFFFF;
+	font-size: 24px;
+}
+
+.contact{
+	display: flex;
+	align-items: center;
+	margin-left: -8%;
+}
+
+.soc{
+	margin-right: 5%;
+}
+
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.tel{
+	white-space: nowrap;
+	transition: 0.2s linear -0.1s;
+}
+
+.tel:hover{
+	color: #48959F;
+	transition: 0.1s linear;
+}
+
+.tel:active{
+	color: #75B3BB;
+	transition: 0.05s linear;
+}
+
+.ic{
+	margin-left: 15%;
+}
+
+.icon{
+	height: 40px;
+}
+
+.icon:hover{
+	cursor: pointer;
+}

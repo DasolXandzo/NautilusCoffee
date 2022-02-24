@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+	height: 100vh;
+	margin: 0;
+	background: linear-gradient(to bottom, #D6D6D6 0%, #B0B0B0 49%, #D6D6D6 100%);
+	font-family: 'Roboto', sans-serif;
+}
+
+header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1% 2%;
+	color: #FFFFFF;
+	font-size: 48px;
+	border-bottom: solid 6px #FFFFFF;
+	margin: 0 3%;
+}
+
+.back{
+	margin-top: -0.25%;
+	padding-top: 0.5%;
+	padding-right: 0.5%;
+	display: flex;
+	align-items: center;
+	transition: 0.2s linear;
+	white-space: nowrap;
+}
+
+.back:hover{
+	background-color: #cfcfcf;
+	border-radius: 10px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	cursor: pointer;
+	transition: 0.2s linear;
+}
+
+.back:active{
+	background-color: #c9c9c9;
+	transition: 0.05s linear;
+}
+
+.arrowback{
+	height: 50px;
+	width: 50px;
+	margin-bottom: -1%;
+}
+
+.logo{
+	height: 58px;
+	width: 181px;
+	margin-bottom: -2.5%;
+}
+
+.head{
+	margin-right: 43.5%;
+	font-size: 52px;
+}
+
+main{
+	height: 79%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: #FFFFFF;
+	font-size: 30px;	
+}
+
+.block{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.inf{
+	padding-top: 4.7%;
+}
+
+.line{
+	display: inline-flex;
+	flex-direction: column;
+}
+
+.special{
+	color: #48959F;
+}
+
+.special2{
+	text-align: center;
+	color: #97725f;
+}
+
+footer{
+	height: 9.4%;
+	background: linear-gradient(to bottom, #9b7562, #241512);
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color: #FFFFFF;
+	font-size: 24px;
+}
+
+.contact{
+	display: flex;
+	align-items: center;
+	margin-left: -8%;
+}
+
+.soc{
+	margin-right: 5%;
+}
+
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.tel{
+	white-space: nowrap;
+	transition: 0.2s linear -0.1s;
+}
+
+.tel:hover{
+	color: #48959F;
+	transition: 0.1s linear;
+}
+
+.tel:active{
+	color: #75B3BB;
+	transition: 0.05s linear;
+}
+
+.ic{
+	margin-left: 15%;
+}
+
+.icon{
+	height: 40px;
+}
+
+.icon:hover{
+	cursor: pointer;
+}
